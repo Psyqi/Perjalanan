@@ -1,0 +1,18 @@
+.jumbotron {
+
+    padding: 2rem 1rem;
+    
+    background-color: #E2EDFF ;
+}
+
+.btn{
+	background: -webkit-linear-gradient(right, #DC143C, #FA8072);
+	text-align: center;
+    border: none;
+    border-radius: 21px;
+    box-shadow: 0px 1px 8px #CD5C5C;
+    color: white;
+    font-family: bold sans-serif;
+    margin: 0 auto;
+
+}
